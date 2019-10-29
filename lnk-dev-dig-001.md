@@ -9,22 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#lnk-dev-dig-001">lnk-dev-dig-001</a>
-<ul>
-<li><a href="#syllabus">Syllabus</a></li>
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="lnk-dev-dig-001"><code>lnk-dev-dig-001</code></h1>
+  <div class="stackedit__html"><h1 id="lnk-dev-dig-001"><code>lnk-dev-dig-001</code></h1>
 <ul>
 <li>All “sessions” are estimated at 2 hours</li>
 </ul>
@@ -88,9 +73,7 @@
 <li>Make your own module</li>
 <li>Whatever else I forgot or think is interesting!</li>
 </ul>
-
-    </div>
-  </div>
+</div>
 </body>
 
 </html>
