@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>lnk-dev-dig-001</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="lnk-dev-dig-001"><code>lnk-dev-dig-001</code></h1>
+---
+
+<h1 id="lnk-dev-dig-001"><code>lnk-dev-dig-001</code></h1>
 <ul>
 <li>All “sessions” are estimated at 2 hours</li>
 </ul>
@@ -73,7 +67,4 @@
 <li>Make your own module</li>
 <li>Whatever else I forgot or think is interesting!</li>
 </ul>
-</div>
-</body>
 
-</html>
